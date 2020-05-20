@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 20 14:13:02 2019
 
-@author: sebas
+@author: sebastian
 """
 
 ### This module contains functions for simulation
